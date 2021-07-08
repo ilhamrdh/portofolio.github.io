@@ -1,0 +1,37 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.refactor.renameFromFileExplorer": "preview",
+    "workbench.colorTheme": "One Dark Pro",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "html.format.unformatted": "wbr",
+    "bracketPairColorizer.consecutivePairColors": [
+        [
+            "<",
+            "</"
+        ],
+        [
+            "<",
+            "/>"
+        ],
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "liveServer.settings.port": 5501
+} //C:\Users\ILHAM\AppData\Roaming\Code\User\settings.json
