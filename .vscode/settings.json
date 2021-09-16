@@ -11,7 +11,7 @@
         "**/.factorypath": true
     },
     "java.refactor.renameFromFileExplorer": "preview",
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Atom One Dark",
     "window.zoomLevel": 0,
     "workbench.iconTheme": "vscode-icons",
     "editor.formatOnSave": true,
@@ -33,5 +33,5 @@
         ],
         "Red"
     ],
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5502
 } //C:\Users\ILHAM\AppData\Roaming\Code\User\settings.json
